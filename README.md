@@ -1,2 +1,3 @@
 # hello-world
-Adding a repository to as learning excercise
+
+Do your best until you know better; and when you know better, do better
